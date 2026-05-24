@@ -1,1 +1,18 @@
 
+cff-version: 1.2.0
+title: "Bounded Vertical Agents: A State-and-Control Architecture for Safer Real-World AI Agents"
+message: "If you use or reference this work, please cite it as below."
+type: article
+authors:
+  - family-names: Li
+    given-names: Yue
+date-released: 2026-05-24
+abstract: "A working paper proposing a state-and-control architecture for safer vertical AI agents."
+keywords:
+  - AI agents
+  - vertical agents
+  - agent safety
+  - state machines
+  - bounded autonomy
+  - human-in-the-loop systems
+license: CC-BY-4.0
